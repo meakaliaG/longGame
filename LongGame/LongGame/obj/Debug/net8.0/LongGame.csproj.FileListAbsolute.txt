@@ -1,0 +1,15 @@
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\bin\Debug\net8.0\LongGame.exe
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\bin\Debug\net8.0\LongGame.deps.json
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\bin\Debug\net8.0\LongGame.runtimeconfig.json
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\bin\Debug\net8.0\LongGame.dll
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\bin\Debug\net8.0\LongGame.pdb
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.sourcelink.json
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.dll
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\refint\LongGame.dll
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.pdb
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\LongGame.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\git\LongGame\LongGame\obj\Debug\net8.0\ref\LongGame.dll
